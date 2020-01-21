@@ -1,4 +1,4 @@
-# TheFiveTs
+# TheFiveTs - Lightweight Definition of Done
 
 ## Tests
 All tests have been completed and are executing successfully on the build server
